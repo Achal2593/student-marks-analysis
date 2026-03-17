@@ -72,4 +72,4 @@ Lowest Marks: 76
 
 
 ## 🙋‍♀️ Author
-**Aachal Wakade**
+**Achal Wakade**
