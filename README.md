@@ -53,5 +53,9 @@ The dataset contains:
 
 ---
 
+## 📷 Dashboard Preview
+<img width="745" height="422" alt="image" src="https://github.com/user-attachments/assets/3d387061-caa1-432d-93e8-02746648f628" />
+
+
 ## 🙋‍♀️ Author
 **Aachal Wakade**
