@@ -78,6 +78,27 @@ Lowest Marks: 76
 ## 📷 Dashboard Preview
 <img width="745" height="422" alt="image" src="https://github.com/user-attachments/assets/3d387061-caa1-432d-93e8-02746648f628" />
 
+---
+
+## 💼 Business Use Case
+
+This project can help schools analyze student performance and identify weak areas to improve teaching strategies.
+
+---
+
+## ✅ Conclusion
+
+The analysis shows that overall student performance is good, but some students need improvement in specific subjects. 
+
+---
+
+## 🔮 Future Improvements
+
+- Add more student data  
+- Use Power BI for better visualization  
+- Perform subject-wise analysis
+
+---
 
 ## 🙋‍♀️ Author
 **Achal Wakade**
