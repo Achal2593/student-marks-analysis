@@ -62,6 +62,14 @@ Lowest Marks: 76
 
 ---
 
+## 📌 Insights
+
+- Neha scored the highest marks  
+- Average performance of students is good  
+- Maths subject shows higher scores compared to others
+
+--- 
+
 ## 📷 Project Preview
 <img width="1918" height="1014" alt="image" src="https://github.com/user-attachments/assets/97ce720a-949f-4eed-947c-b37f9963c802" />
 
