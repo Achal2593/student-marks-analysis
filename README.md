@@ -53,6 +53,20 @@ The dataset contains:
 
 ---
 
+## 📊 Sample Output
+
+Total Marks: 417  
+Average Marks: 83.4  
+Highest Marks: 90  
+Lowest Marks: 76  
+
+---
+
+## 📷 Project Preview
+<img width="1918" height="1014" alt="image" src="https://github.com/user-attachments/assets/97ce720a-949f-4eed-947c-b37f9963c802" />
+
+---
+
 ## 📷 Dashboard Preview
 <img width="745" height="422" alt="image" src="https://github.com/user-attachments/assets/3d387061-caa1-432d-93e8-02746648f628" />
 
